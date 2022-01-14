@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @js-wallace
+- 👋 Hi, I’m Jud
 - 👀 I’m interested in math, data, & physics, 
 - 🌱 I’m currently learning python, R, & SQL
 - 💞️ I’m looking to collaborate on any project improving humanity. 
