@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @js-wallace
+- 👀 I’m interested in math, data, & physics, 
+- 🌱 I’m currently learning python, R, & SQL
+- 💞️ I’m looking to collaborate on any project improving humanity. 
+- 📫 How to reach me: gmail, ask
